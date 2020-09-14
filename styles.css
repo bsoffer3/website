@@ -41,3 +41,8 @@ padding: 38px;
 .nav-linkwrapper a:hover {
   color: black;
 }
+
+.portfolio-items-wrapper {
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
