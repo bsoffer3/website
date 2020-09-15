@@ -85,7 +85,7 @@ padding: 38px;
 
 .img-text-wrapper:hover .subtitle {
   font-weight:600;
-  color: gray;
+  color: lightseagreen;
 }
 
 .img-darken {
@@ -109,5 +109,5 @@ padding: 38px;
 }
 
 .profile-content-wrapper h1{
-  color:gray;
+  color:lightseagreen;
 }
