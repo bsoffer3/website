@@ -76,3 +76,8 @@ padding: 38px;
   width: 50%;
   margin-bottom: 20px;
 }
+
+.subtitle {
+  font-weight:600;
+  color: lightseagreen;
+}
